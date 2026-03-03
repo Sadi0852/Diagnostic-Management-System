@@ -22,7 +22,7 @@ The system includes the following features:
 
 👤 User Registration & Login System
 
-### 🧑‍⚕️ Admin Dashboard
+#### 🧑‍⚕️ Admin Dashboard
 
 ### 🧾 Patient Information Management
 
