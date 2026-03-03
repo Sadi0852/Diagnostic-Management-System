@@ -16,15 +16,15 @@ Framework: .NET (Windows Forms)
 
 IDE: Visual Studio
 
-🚀 Features
+## 🚀 Features
 
 The system includes the following features:
 
 👤 User Registration & Login System
 
-🧑‍⚕️ Admin Dashboard
+### 🧑‍⚕️ Admin Dashboard
 
-🧾 Patient Information Management
+### 🧾 Patient Information Management
 
 💉 Service Management
 
@@ -34,7 +34,7 @@ The system includes the following features:
 
 🔐 Basic Authentication System
 
-🏗️ OOP Concepts Used
+## 🏗️ OOP Concepts Used
 
 This project demonstrates the following Object-Oriented Programming concepts:
 
