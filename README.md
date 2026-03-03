@@ -20,32 +20,32 @@ IDE: Visual Studio
 
 The system includes the following features:
 
-👤 User Registration & Login System
+#### User Registration & Login System
 
-#### 🧑‍⚕️ Admin Dashboard
+#### Admin Dashboard
 
-### 🧾 Patient Information Management
+#### Patient Information Management
 
-💉 Service Management
+#### Service Management
 
-💳 Payment & Billing System
+#### Payment & Billing System
 
-📊 Progress Bar & System Navigation
+#### Progress Bar & System Navigation
 
-🔐 Basic Authentication System
+#### Basic Authentication System
 
-## 🏗️ OOP Concepts Used
+## OOP Concepts Used
 
 This project demonstrates the following Object-Oriented Programming concepts:
 
-✅ Encapsulation
+#### Encapsulation
 
-✅ Abstraction
+#### Abstraction
 
-✅ Inheritance
+#### Inheritance
 
-✅ Polymorphism
+#### Polymorphism
 
-✅ Class & Object Implementation
+#### Class & Object Implementation
 
-✅ Event-Driven Programming
+#### Event-Driven Programming
