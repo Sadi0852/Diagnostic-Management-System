@@ -1,12 +1,12 @@
 # Diagnostic-Management-System
-📌 Project Overview
+## 📌 Project Overview
 
 The Diagnostic Management System is a Windows-based desktop application developed using C# and .NET (Windows Forms).
 This project was developed as part of the Object Oriented Programming 2 (OOP2) course.
 
 The system is designed to manage and organize diagnostic center operations such as patient registration, service management, billing, and administrative control.
 
-🎓 Course Information
+## 🎓 Course Information
 
 Course Name: Object Oriented Programming 2
 
